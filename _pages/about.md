@@ -22,11 +22,11 @@ Publications
 Books and Resources
 ===================
 Along with my interest in mathematics, I am also an avid reader! Here are some (non-technical) books I highly recommend:
-1. Ikigai: The Japanese Secret to a Long and Happy Life. By _Héctor García_ and _Francesc Miralles_. 
-2. Where Good Ideas Come From. By _Steven Johnson_.
-3. Thinking in Systems. By _Donella H. Meadows_.
-4. The Birth of a Theorem. By _Cedric Villani_.
-5. Grit. By _Angela Duckworth_.
+1. _Ikigai: The Japanese Secret to a Long and Happy Life_ by _Héctor García_ and _Francesc Miralles_. 
+2. _Where Good Ideas Come From_ by _Steven Johnson_.
+3. _Thinking in Systems_ by _Donella H. Meadows_.
+4. _The Birth of a Theorem _by _Cedric Villani_.
+5. _Grit_ by _Angela Duckworth_.
 
 Some great mathematics textbooks I highly recommend:
 1. _Introduction to Functional Analysis_ by _Erwin Kreyszig_. A comprehensive and well-presented dive into the world of functional analysis! Complete proofs of theorems are presented and worked solutions are given at the end of the textbook.
