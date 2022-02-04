@@ -16,9 +16,9 @@ I will be applying to Masters and PhD programs in Fall 2022! Please find my CV a
 Publications
 ============
 (!) denotes equal contribution.
-1. Conditional Generative Quantile Networks via Optimal Transport.<br/> **Jesse Sun**, Dihong Jiang, Yaoliang Yu. _In preparation/Under review_. (2022)
-2. Machine Learning to Improve Left Ventricular Scar Quantification in Hypertrophic Cardiomyopathy Patients.<br/> Zeinab N Ghaziani (!), **Jesse Sun (!)**, Raymond H Chan, Harry Rakowski, Martin S Maron, Ethan J Rowin, Bo Wang, Wendy Tsang. _Circulation_. (2020)
-3. SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation.<br/> **Jesse Sun**, Fatemeh Darbehani, Mark Zaidi, Bo Wang. _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2020_. (2020)
+1. **Conditional Generative Quantile Networks via Optimal Transport.**<br/> **Jesse Sun**, Dihong Jiang, Yaoliang Yu. _In preparation/Under review_. (2022)
+2. **Machine Learning to Improve Left Ventricular Scar Quantification in Hypertrophic Cardiomyopathy Patients.**<br/> Zeinab N Ghaziani (!), **Jesse Sun (!)**, Raymond H Chan, Harry Rakowski, Martin S Maron, Ethan J Rowin, Bo Wang, Wendy Tsang. _Circulation_. (2020)
+3. **SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation.**<br/> **Jesse Sun**, Fatemeh Darbehani, Mark Zaidi, Bo Wang. _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2020_. (2020)
 
 Books and Resources
 ===================
