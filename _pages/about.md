@@ -23,14 +23,14 @@ Publications
 Books and Resources
 ===================
 Along with my interest in mathematics, I am also an avid reader! Here are some (non-technical) books I highly recommend:
-1. _Ikigai: The Japanese Secret to a Long and Happy Life_ by _Héctor García_ and _Francesc Miralles_. 
-2. _Where Good Ideas Come From_ by _Steven Johnson_.
-3. _Thinking in Systems_ by _Donella H. Meadows_.
-4. _The Birth of a Theorem_ by _Cedric Villani_.
-5. _Grit_ by _Angela Duckworth_.
+1. **Ikigai: The Japanese Secret to a Long and Happy Life** by _Héctor García_ and _Francesc Miralles_. 
+2. **Where Good Ideas Come From** by _Steven Johnson_.
+3. **Thinking in Systems** by _Donella H. Meadows_.
+4. **The Birth of a Theorem** by _Cedric Villani_.
+5. **Grit** by _Angela Duckworth_.
 
 Some great mathematics textbooks I highly recommend:
-1. _Introduction to Functional Analysis_ by _Erwin Kreyszig_. A comprehensive and well-presented dive into the world of functional analysis! Complete proofs of theorems are presented and worked solutions are given at the end of the textbook.
-2. _Probability and Random Processes_ by _Geoffrey R. Grimmett and David R. Stirzaker_. I absolutely adore this textbook! Extremely thorough and well-written, it really elevated my interest for statistics and probability theory to the next level.
-3. _Analysis II_ by _Terrence Tao_. Great (and indeed classic) first step into real analysis!
-4. _Convex Optimization_ by _Stephen Boyd_ and _Lieven Vandenberghe_. **The handbook** for convex optimization! Helped me a ton in my optimization courses.
+1. **Introduction to Functional Analysis** by _Erwin Kreyszig_. A comprehensive and well-presented dive into the world of functional analysis! Complete proofs of theorems are presented and worked solutions are given at the end of the textbook.
+2. **Probability and Random Processes** by _Geoffrey R. Grimmett and David R. Stirzaker_. I absolutely adore this textbook! Extremely thorough and well-written, it really elevated my interest for statistics and probability theory to the next level.
+3. **Analysis II** by _Terrence Tao_. Great (and indeed classic) first step into real analysis!
+4. **Convex Optimization** by _Stephen Boyd_ and _Lieven Vandenberghe_. **The handbook** for convex optimization! Helped me a ton in my optimization courses.
