@@ -25,7 +25,7 @@ Along with my interest in mathematics, I am also an avid reader! Here are some (
 1. _Ikigai: The Japanese Secret to a Long and Happy Life_ by _Héctor García_ and _Francesc Miralles_. 
 2. _Where Good Ideas Come From_ by _Steven Johnson_.
 3. _Thinking in Systems_ by _Donella H. Meadows_.
-4. _The Birth of a Theorem _by _Cedric Villani_.
+4. _The Birth of a Theorem_ by _Cedric Villani_.
 5. _Grit_ by _Angela Duckworth_.
 
 Some great mathematics textbooks I highly recommend:
