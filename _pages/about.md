@@ -1,14 +1,36 @@
 ---
 permalink: /
-title: "Jesse Sun"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Currently, I'm a fourth year undergraduate student at the University of Waterloo majoring in Computer Science and minoring in Combinatorics and Optimization. I'm currently an ML Engineer Intern building up recommendation systems at [BetterUp](https://betterup.com). I am also fortunate enough to be advised by [Yaoliang Yu](https://cs.uwaterloo.ca/~y328yu/) and [Bo Wang](https://wanglab.ml/). 
+Hi there! I'm an (incoming) fourth-year undergraduate student at the University of Waterloo majoring in Computer Science and minoring in Combinatorics and Optimization. I'm currently an ML Engineer Intern building up recommendation systems at [BetterUp](https://betterup.com). I am also fortunate enough to be advised by [Yaoliang Yu](https://cs.uwaterloo.ca/~y328yu/) and [Bo Wang](https://wanglab.ml/). 
 
-My research interests are quite broad as they cover statistics, optimization, and provable machine learning along with their applications in healthcare and social issues. In particular, I am keen on the analysis of these mathematical models to better understand the behaviour and limitations of these tools.  
+**Research Interests:** My research interests are quite broad as they cover high-dimensional statistics/probability theory, convex & non-convex optimization, and provable machine learning along with their applications in healthcare and social issues. In particular, I am keen on the analysis of these mathematical models to better understand the behaviour and limitations of these tools.  
 
 I will be applying to Masters and PhD programs in Fall 2022! Please find my CV attached [here]() to learn more about me.
+
+Publications
+============
+(!) denotes equal contribution.
+1. Conditional Generative Quantile Networks via Optimal Transport. **Jesse Sun**, Dihong Jiang, Yaoliang Yu. _In preperation/review_. (2022)
+2. Machine Learning to Improve Left Ventricular Scar Quantification in Hypertrophic Cardiomyopathy Patients. Zeinab N Ghaziani (!), **Jesse Sun (!)**, Raymond H Chan, Harry Rakowski, Martin S Maron, Ethan J Rowin, Bo Wang, Wendy Tsang. _Circulation_. (2020)
+3. SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation. **Jesse Sun**, Fatemeh Darbehani, Mark Zaidi, Bo Wang. _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2020_. (2020)
+
+Books and Resources
+===================
+Along with my interest in mathematics, I am also an avid reader! Here are some (non-technical) books I highly recommend:
+1. **Ikigai: The Japanese Secret to a Long and Happy Life** by _Héctor García_ and _Francesc Miralles_. 
+2. **Where Good Ideas Come From** by _Steven Johnson_.
+3. **Thinking in Systems** by _Donella H. Meadows_.
+4. **The Birth of a Theorem** by _Cedric Villani_.
+5. **Grit** by _Angela Duckworth_.
+
+Some great mathematics textbooks I highly recommend:
+1. **Introduction to Functional Analysis** by _Erwin Kreyszig_. A comprehensive and well-presented dive into the world of functional analysis! Complete proofs of theorems are presented and worked solutions are given at the end of the textbook.
+2. **Probability and Random Processes** by _Geoffrey R. Grimmett and David R. Stirzaker_. I absolutely adore this textbook! Extremely thorough and well-written, it really elevated my interest for statistics and probability theory to the next level.
+3. **Analysis II** by _Terrence Tao_. Great (and indeed classic) first step into real analysis!
+4. **Convex Optimization** by _Stephen Boyd_ and _Lieven Vandenberghe_. **The handbook** for convex optimization! Helped me a ton in my optimization courses.
