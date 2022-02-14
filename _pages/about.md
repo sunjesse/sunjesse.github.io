@@ -32,5 +32,5 @@ Along with my interest in mathematics, I am also an avid reader! Here are some (
 Some great mathematics textbooks I highly recommend:
 1. **Introduction to Functional Analysis** by _James C. Robinson_. A comprehensive and well-presented dive into the world of functional analysis! Complete proofs of theorems are presented and worked solutions are given at the end of the textbook.
 2. **Probability and Random Processes** by _Geoffrey R. Grimmett and David R. Stirzaker_. I absolutely adore this textbook! Extremely thorough and well-written, it really elevated my interest for statistics and probability theory to the next level.
-3. **Analysis II** by _Terrence Tao_. Great (and indeed classic) first step into real analysis!
+3. **Analysis II** by _Terence Tao_. Great (and indeed classic) first step into real analysis!
 4. **Convex Optimization** by _Stephen Boyd_ and _Lieven Vandenberghe_. **The handbook** for convex optimization! Helped me a ton in my optimization courses.
