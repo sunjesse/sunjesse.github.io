@@ -35,3 +35,7 @@ Some great mathematics textbooks I highly recommend:
 3. **Analysis II** by _Terence Tao_. Great (and indeed classic) first step into real analysis!
 4. **Convex Optimization** by _Stephen Boyd_ and _Lieven Vandenberghe_. **The handbook** for convex optimization! Helped me a ton in my optimization courses.
 5. **Nonlinear Functional Analysis** by _Klaus Deimling_. Currently working through this book but so far I recommend this textbook as it is very comprehensive albeit dense. In particular, it is a great resource for optimizers! :^)
+
+Course Work
+===========
+Optimization for Data Science, Continuous Optimization, Stochastic Processes, Intro. to Machine Learning, Advanced Probability Theory, Markov Chains, Real Analysis, Functional Analysis, Algorithms, Graph Theory and Combinatorics.
