@@ -11,7 +11,7 @@ Hi there! I'm an (incoming) fourth-year undergraduate student at the University 
 
 **Research Interests:** My research interests are quite broad as they cover high-dimensional statistics & probability theory, convex & non-convex optimization, and provable machine learning along with their applications in healthcare and social issues. In particular, I am keen on the analysis of these mathematical models to better understand the behaviour and limitations of these tools. Recently, I've been focused on first order optimization algorithms in entropic optimal transport over continuous distributions.
 
-I will be applying to Masters and PhD programs in Fall 2022! Please find my CV attached [here](https://sunjesse.github.io/files/cv.pdf) to learn more about me.
+I will be applying to Masters and PhD programs in Fall 2022! Please find my CV attached [here](https://sunjesse.github.io/cv.pdf) to learn more about me.
 
 Publications
 ============
