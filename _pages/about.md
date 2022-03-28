@@ -40,4 +40,4 @@ Course Work
 ===========
 Optimization for Data Science, Continuous Optimization, Stochastic Processes, Intro. to Machine Learning, Advanced Probability Theory, Markov Chains, Real Analysis, Functional Analysis, Algorithms, Graph Theory and Combinatorics, Linear Algebra, Calculus III.
 
-**Currently Learning:** Measure Theory, Topics in Nonlinear Functional Analysis.
+**Currently Learning:** Measure Theory, Topics in Nonlinear Functional Analysis, Monotone Operator Theory.
