@@ -22,7 +22,7 @@ Publications
 
 Books and Resources
 ===================
-Along with my interest in mathematics, I am also an avid reader! Here are some (non-technical) books I highly recommend:
+Here are some (non-technical) books I highly recommend:
 1. **Ikigai: The Japanese Secret to a Long and Happy Life** by _Héctor García_ and _Francesc Miralles_. 
 2. **Where Good Ideas Come From** by _Steven Johnson_.
 3. **Thinking in Systems** by _Donella H. Meadows_.
