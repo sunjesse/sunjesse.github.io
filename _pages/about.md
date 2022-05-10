@@ -44,5 +44,5 @@ Some great mathematics textbooks I highly recommend:
 
 **Course Work:** Optimization for Data Science, Continuous Optimization, Stochastic Processes, Intro. to Machine Learning, Advanced Probability Theory, Markov Chains, Real Analysis, Functional Analysis, Algorithms, Graph Theory and Combinatorics, Linear Algebra, Calculus III.
 
-**Currently Learning:** Measure Theory, Topics in Nonlinear Functional Analysis, Monotone Operator Theory.
-**Currently Training For:** Toronto Waterfront Marathon 2022
+**Currently Learning:** Measure Theory, Topics in Nonlinear Functional Analysis, Monotone Operator Theory. <br/>
+**Currently Training For:** Toronto Waterfront Marathon 2022.
