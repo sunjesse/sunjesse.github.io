@@ -16,9 +16,13 @@ I will be applying to Masters and PhD programs in Fall 2022! Please find my CV a
 Publications
 ============
 \* denotes equal contribution.
-1. Conditional Generative Quantile Networks via Optimal Transport.<br/> **Jesse Sun**, Dihong Jiang, Yaoliang Yu. _International Conference on Learning Representations - Deep Generative Models for Highly Structured Data Workshop_. (2022)
+3. Conditional Generative Quantile Networks via Optimal Transport.<br/> **Jesse Sun**, Dihong Jiang, Yaoliang Yu. _International Conference on Learning Representations - Deep Generative Models for Highly Structured Data Workshop_. (2022)
 2. Machine Learning to Improve Left Ventricular Scar Quantification in Hypertrophic Cardiomyopathy Patients.<br/> Zeinab N Ghaziani\*, **Jesse Sun**\*, Raymond H Chan, Harry Rakowski, Martin S Maron, Ethan J Rowin, Bo Wang, Wendy Tsang. _Circulation_. (2020)
-3. SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation.<br/> **Jesse Sun**, Fatemeh Darbehani, Mark Zaidi, Bo Wang. _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2020_. (2020)
+1. SAUNet: Shape Attentive U-Net for Interpretable Medical Image Segmentation.<br/> **Jesse Sun**, Fatemeh Darbehani, Mark Zaidi, Bo Wang. _International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI) 2020_. (2020)
+
+Works in Progress
+=================
+1. Neural Brenier Maps as Multivariate Quantile Estimators <br/> **Jesse Sun**, Dihong Jiang, Yaoliang Yu. (2022)
 
 Books and Resources
 ===================
@@ -28,6 +32,7 @@ Here are some (non-technical) books I highly recommend:
 3. **Thinking in Systems** by _Donella H. Meadows_.
 4. **The Birth of a Theorem** by _Cedric Villani_.
 5. **Grit** by _Angela Duckworth_.
+6. **Principles** by _Ray Dalio_.
 
 Some great mathematics textbooks I highly recommend:
 1. **Introduction to Functional Analysis** by _James C. Robinson_. A comprehensive and well-presented dive into the world of functional analysis! Complete proofs of theorems are presented and worked solutions are given at the end of the textbook.
