@@ -9,9 +9,9 @@ redirect_from:
 ---
 Hi there! I'm an (incoming) fourth-year undergraduate student at the University of Waterloo majoring in Computer Science and minoring in Combinatorics and Optimization. I'm currently an ML Engineer Intern building up recommendation systems at [BetterUp](https://betterup.com). I am also fortunate enough to be advised by [Yaoliang Yu](https://cs.uwaterloo.ca/~y328yu/) and [Bo Wang](https://wanglab.ml/). 
 
-**Research Interests:** My research interests are quite broad as they cover high-dimensional statistics & probability theory, convex & non-convex optimization, and provable machine learning along with their applications in healthcare and social issues. In particular, I am keen on the analysis of these mathematical models to better understand the behaviour and limitations of these tools. By bridging the gap between these subjects, I hope to develop principled and robust algorithms for real world use cases (i.e. uncertainty quantification, distributional drift, etc.). Recently, I've been focused on first order optimization algorithms in entropic optimal transport over continuous distributions.
+**Research Interests:** My research interests are quite broad as they cover high-dimensional statistics & probability theory, convex & non-convex optimization, and provable machine learning along with their applications in healthcare and social issues. In particular, I am keen on the analysis of these mathematical models to better understand the behaviour and limitations of these tools. By bridging the gap between these subjects, I hope to develop principled and robust algorithms for real world use cases (i.e. uncertainty quantification, distributional drift, etc.). I will be applying to Masters and PhD programs in Fall 2022! Please find my CV attached [here](https://sunjesse.github.io/cv.pdf) to learn more about me.
 
-I will be applying to Masters and PhD programs in Fall 2022! Please find my CV attached [here](https://sunjesse.github.io/cv.pdf) to learn more about me.
+I also enjoy long distance running, piano, weightlifting, and _outdoorsy_ activities! Feel free to connect with me :)
 
 Publications
 ============
