@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! I'm an (incoming) fourth-year undergraduate student at the University of Waterloo majoring in Computer Science and minoring in Combinatorics and Optimization. I'm currently an ML Engineer Intern building up large-scale recommendation systems using large language models at [BetterUp](https://betterup.com). I am also fortunate enough to be advised by [Yaoliang Yu](https://cs.uwaterloo.ca/~y328yu/) and [Bo Wang](https://wanglab.ml/). 
+Hi there! I'm an (incoming) fourth-year undergraduate student at the University of Waterloo majoring in Computer Science and minoring in Combinatorics and Optimization. I'm currently an ML Engineer Intern building up large-scale recommendation systems at [BetterUp](https://betterup.com). I am also fortunate enough to be advised by [Yaoliang Yu](https://cs.uwaterloo.ca/~y328yu/) and [Bo Wang](https://wanglab.ml/). 
 
 **Research Interests** <br/>
 On a high level, I'm interested in understanding and modelling decision-making as it's one of the pillars to understanding general intelligence.
