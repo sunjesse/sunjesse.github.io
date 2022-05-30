@@ -36,6 +36,7 @@ Here are some (non-technical) books I highly recommend:
 4. **The Birth of a Theorem** by _Cedric Villani_.
 5. **Grit** by _Angela Duckworth_.
 6. **Principles** by _Ray Dalio_.
+7. **Outliers** by _Malcolm Gladwell_.
 
 Some great mathematics textbooks I highly recommend:
 1. **Introduction to Functional Analysis** by _James C. Robinson_. A comprehensive and well-presented dive into the world of functional analysis! Complete proofs of theorems are presented and worked solutions are given at the end of the textbook.
