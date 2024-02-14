@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jesse Sun"
   avatar           : "profile.jpeg"
-  bio              : "Incoming 4th-year CS and CO @ University of Waterloo"
+  bio              : "ML @ BetterUp, CS and CO @ University of Waterloo"
   location         : "Toronto, ON"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=2aFlzCcAAAAJ&hl=en"
@@ -101,13 +101,13 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sunjesse"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sunjesse58"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
