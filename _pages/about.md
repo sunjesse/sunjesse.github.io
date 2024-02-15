@@ -21,6 +21,6 @@ Publications
 
 Outside of Work
 ==============
-Long distance endurance sports are a big passion of mine and I spent a lot of time training. I've ran two marathons so far and this year I have a goal of running sub 3 in the fall! I also enjoy racing the 10k and half-marathon distances. I've also started dabbling in triathlons as I'll be travelling to Switzerland this June to race my first Ironman 70.3! Always looking for new friends to train with so don't hesitate to reach out :)
+Long distance endurance sports are a big passion of mine and I spend a lot of time training. I've ran two marathons so far and this year I have a goal of running sub 3 in the fall! I also enjoy racing the 10k and half-marathon distances. I've also started dabbling in triathlons as I'll be travelling to Switzerland this June to race my first Ironman 70.3! Always looking for new friends to train with so don't hesitate to reach out :)
 
 In my free time, I also love reading and learning. With all that time spent alone on my Zwift trainer or out on a long run, I've really come to appreciate audiobooks. Some books I love and can't recommend enough are **Where Good Ideas Come From** (Steven Johnson), **Grit** (Angela Duckworth), **Essentialism** (Greg McKeown), and **Birth of a Theorem** (Cedric Villani). As you may have noticed, my favourite genre is non-fiction/biography but always open for new recommendations! 
