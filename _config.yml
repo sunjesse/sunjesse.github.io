@@ -130,7 +130,6 @@ analytics:
     tracking_id          :
 
 
-<<<<<<< HEAD
 # Site Author
 author:
   name             : "Jesse Sun"
@@ -168,8 +167,6 @@ author:
   wikipedia        :
 
 
-=======
->>>>>>> origin
 # Reading Files
 include:
   - .htaccess
